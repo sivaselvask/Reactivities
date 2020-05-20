@@ -1,0 +1,12 @@
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\bin\Debug\netstandard2.0\Persistance.deps.json
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\bin\Debug\netstandard2.0\Persistance.dll
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\bin\Debug\netstandard2.0\Persistance.pdb
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\bin\Debug\netstandard2.0\Domain.dll
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\bin\Debug\netstandard2.0\Domain.pdb
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.csprojAssemblyReference.cache
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfoInputs.cache
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfo.cs
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CopyComplete
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.dll
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.pdb

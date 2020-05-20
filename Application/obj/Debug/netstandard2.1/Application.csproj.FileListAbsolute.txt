@@ -1,0 +1,14 @@
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\bin\Debug\netstandard2.1\Persistance.dll
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\bin\Debug\netstandard2.1\Persistance.pdb
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Projects\ASP.Net_Projects\DoNet_Core\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
